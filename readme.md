@@ -61,7 +61,7 @@
 - https://www.youtube.com/watch?v=gSTGXuj-2wM
 - https://linuc.org/docs/seminar/20211010_linuc2.pdf
 ## 苦手克服短期集中講座「コンテナ」（技術解説）
-> 2.06.1コンテナの仕組み」と「2.06.2 Dockerコンテナとコンテナイメージの管理」
+ - 2.06.1コンテナの仕組み, 2.06.2 Dockerコンテナとコンテナイメージの管理について深堀り解説。
 - https://www.youtube.com/watch?v=h_ayWrDKWpQ
 - ［テーマ］コンテナ／例題解説
 > サンプル問題を使って、出題の意図や正解の導き出し方を丁寧に解説します。
@@ -83,8 +83,8 @@ https://linuc.org/study/samples/index/s/1_01/
 
 # 1.02：ファイル・ディレクトリの操作と管理
 ## 1.02.2 基本的なファイル管理の実行
-> - 1.03.2 フィルタを使ったテキストストリームの処理
-> - 1.03.4 正規表現を使用したテキストファイルの検索
+- 1.03.2 フィルタを使ったテキストストリームの処理
+- 1.03.4 正規表現を使用したテキストファイルの検索
 > -  基本コマンドを学習する必要性
 > - 17:30 基本コマンドの使い方
 > - 18:04 catコマンド
@@ -102,7 +102,7 @@ https://linuc.org/study/samples/index/s/1_01/
 - https://linuc.org/docs/seminar/20220416_linuc1.pdf
 
 ## 1.02.3：ハードリンクとシンボリックリンク
-> - 1.02.4：ファイルの配置と検索
+- 1.02.4：ファイルの配置と検索
 > - 09:55 ファイルを格納する仕組み（リンク理解の前提知識）
 > - 15:04 ハードリンク
 > - 21:01 シンボリックリンク
@@ -115,8 +115,6 @@ https://linuc.org/study/samples/index/s/1_01/
 
 ## 1.02 ファイル・ディレクトリの操作と管理
 - 1.02.1 ファイルの所有者とパーミッション
-- https://www.lpi.or.jp/news/event/docs/20200829_linuc1_02.pdf
-- https://lpi.or.jp/news/event/docs/20200829_linuc1_02.pdf
 > - ファイルの保護機能
 > - 05:22 ファイルのパーミッションの確認方法
 > - 10:49 パーミッションの読み方
@@ -127,9 +125,10 @@ https://linuc.org/study/samples/index/s/1_01/
 > - 37:59 特殊なパーミッション（スティッキービット）
 > - 42:27 パーミッションの変更（chmod）
 - https://www.youtube.com/watch?v=WYAltD29M4I
+- https://www.lpi.or.jp/news/event/docs/20200829_linuc1_02.pdf
+- https://lpi.or.jp/news/event/docs/20200829_linuc1_02.pdf
 
 # 1.03 GNUとUnixのコマンド
->- https://linuc.org/docs/seminar/20201129_linuc1.pdf
 > - 04:06 シェルとは
 > - 05:59 変数とは？（シェル変数／環境変数）
 > - 13:03 パイプのの解説とデモ
@@ -140,13 +139,14 @@ https://linuc.org/study/samples/index/s/1_01/
 > - 45:53 viエディタの解説とデモ
 > - 53:00 Q&A（ライブ回答）
 - https://www.youtube.com/watch?v=1sAS1k3O2iQ
+- https://linuc.org/docs/seminar/20201129_linuc1.pdf
   
 
 
 ## 1.03 GNUとUnixのコマンド
->- 1.03.2 フィルタを使ったテキストストリームの処理
->- 1.03.3 ストリーム、パイプ、リダイレクトの使用
->- 1.03.4 正規表現を使用したテキストファイルの検索
+- 1.03.2 フィルタを使ったテキストストリームの処理
+- 1.03.3 ストリーム、パイプ、リダイレクトの使用
+- 1.03.4 正規表現を使用したテキストファイルの検索
 - https://linuc.org/study/seminar/2576/
 - https://linuc.org/docs/seminar/20210626_linuc1.pdf
 - https://www.youtube.com/watch?v=FdIttucMbkU
@@ -173,9 +173,9 @@ https://linuc.org/study/samples/index/s/1_01/
 - https://linuc.org/study/seminar/3791/
 - https://linuc.org/docs/seminar/20230219_linuc1.pdf
 # 1.04 〜Ubuntuのインストールとパッケージ管理
--「1.01：Linuxのインストールと仮想マシン・コンテナの利用」
--「1.01.1 Linuxのインストール、起動、接続、切断と停止」
-ubuntu入門
+- 1.01：Linuxのインストールと仮想マシン・コンテナの利用
+- 1.01.1 Linuxのインストール、起動、接続、切断と停止
+- ubuntu入門
 - https://linuc.org/study/seminar/2369/
 > -  05:29 Ubuntu入門（イントロダクション）
 > - 07:11 Ubuntuの特徴
