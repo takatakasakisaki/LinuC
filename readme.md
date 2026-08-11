@@ -27,6 +27,32 @@
 - https://www.youtube.com/watch?v=Q6rACD45Ug8
 - https://lpi.or.jp/news/event/docs/20200523_linuc1.pdf
 
+## 1.01.1　Linuxのインストール、起動、接続、切断と停止
+> - 07:18 デモ環境について
+> - 08:44 仮想マシンの作成
+> - 17:31 AlmaLinuxのインストール
+> - 30:13 ブートメディアの優先順位の設定
+> - 33:04 Linuxシステムへのログイン
+> - 1:05:18 ログアウトとシャットダウン／再起動
+> - 1:12:49 Tera Termのインストール
+- https://www.youtube.com/watch?v=ocYUK9uHcWE
+- https://linuc.org/study/seminar/6827/
+- https://linuc.org/docs/seminar/20250418_linuc1.pdf
+
+
+## Raspberry Piで構築するお手軽Linux学習環境（専用コンピュータで作る学習環境）
+> - 05:23 学習環境の構築方法一覧
+> - 07:48 ラズパイとは
+> - 16:54 基本的な使い方（OSインストール方法解説）
+> - 31:34 実機デモ
+> - 44:21 注意事項
+> - 48:41 学習用途としての利用が終わったら
+> - 56:04 Q&A（ライブ回答）
+> - 1:00:31 サーバーとして使う方法（apacheインストール）
+- https://www.youtube.com/watch?v=UvbTNpVTefM&list=PLAsEyLm5aGODa2mYDPUS8yPD74u4wApty&index=4
+- https://linuc.org/study/seminar/3377/
+- https://linuc.org/docs/seminar/20220709_linuc1.pdf
+
 ## 1.01.2：仮想マシン・コンテナの概念と利用  docker
 - https://linuc.org/study/seminar/2374/
 > - 仮想化とは
@@ -233,7 +259,7 @@ https://linuc.org/study/samples/index/s/1_01/
 > - 48:04 LVM（Logical Volume Manager）とは
 - https://linuc.org/study/seminar/2208/
 - https://www.youtube.com/watch?v=Yfm29vHFU7s&t=94s
-ｰ https://linuc.org/docs/seminar/20201205_linuc2.pdf
+- https://linuc.org/docs/seminar/20201205_linuc2.pdf
  
 # 1.06.2 シェルスクリプト 1.08.2 ジョブスケジューリング
 > - 12:36 シェルスクリプト
@@ -242,13 +268,14 @@ https://linuc.org/study/samples/index/s/1_01/
 - https://linuc.org/study/seminar/2110/
 - https://linuc.org/docs/seminar/20201031_linuc1.pdf
 - 
-# 1.06シェルおよびスクリプト副題 1.06.1 シェル環境のカスタマイズ
+# 1.06シェルおよびスクリプト
+## 1.06.1 シェル環境のカスタマイズ
 > - 変数とは
 > - 13:29 シェル変数と環境変数
 > - 32:27 シェル変数と環境変数のコマンドまとめ
 > - 40:42 ログインシェルと対話型シェル
 > - 42:17 シェル環境のカスタマイズ
-- https://www.youtube.com/watch?v=NhHYNWhRExg&t=107s
+- https://www.youtube.com/watch?v=NhHYNWhRExg
 - https://linuc.org/docs/seminar/20210221_linuc1.pdf
 
 # 1.07 ネットワーク
@@ -275,7 +302,7 @@ https://linuc.org/study/samples/index/s/1_01/
 - https://linuc.org/study/seminar/1974/
 - https://linuc.org/docs/seminar/20200926_linuc1.pdf
 
-## ネットワーク構成
+## 2.03 ネットワーク構成
 - 2.03.1 基本的なネットワーク構成
 - 2.03.2 高度なネットワーク構
 - 2.03.3 ネットワークの問題解決
@@ -393,7 +420,7 @@ Linuxカーネルの構成要素と管理
 - https://linuc.org/study/seminar/2920/
 - https://linuc.org/docs/seminar/20211212_linuc1.pdf
   
-##【初級向け】サーバープロセスの動作確認
+## 【初級向け】サーバープロセスの動作確認
 > - 10:33 プロセスについて
 > - 43:02 サーバープロセスについて
 > - 57:04 Webサーバーのプロセス所有者確認（検証事例）
