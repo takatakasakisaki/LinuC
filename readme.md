@@ -14,6 +14,12 @@
 - https://test.uzuz-college.jp/linuc101
 - https://lpic-study.com/exam/LPIC+101-rnd-new.php
 
+## ゼロから学ぶLinux　〜Linux学習環境の構築方法を知る〜 2022-3-12 A-5
+- https://lpi.or.jp/news/event/page/20220311_01/
+- https://www.youtube.com/watch?v=dCmeHhRdMqY
+- https://lpi.or.jp/news/event/page/20220311_01/20220312_linuc.pdf
+
+
 
 # 1.01 Linuxのインストール　仮想マシン、コンテナの利用
 仮想マシン・コンテナの概念と利用
