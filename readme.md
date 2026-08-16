@@ -342,7 +342,29 @@ https://linuc.org/study/samples/index/s/1_01/
 - https://www.youtube.com/watch?v=xBW1Ogbyuvg
 - https://linuc.org/docs/seminar/20210117_linuc1.pdf
 
-  
+- https://linuc.org/study/seminar/4568/
+> 00:00 スタート<br>
+> 03:40 本日のセミナーについて<br>
+> 09:40 システム時刻の管理<br>
+> 34:11 システムのログ<br>
+> 58:03 メール転送エージェント（MTA）の基本<br>
+- https://youtu.be/rX8pm50pFp8?si=_YpxFtHrDq7eErwE
+- https://linuc.org/docs/seminar/20240217_linuc1.pdf
+
+## 1.09 1.09.2 システムログの設定とログローテーションで使用するコマンドをデモ環境を用いて解説
+> 5:35 シスログ解説開始<br>
+> 17:58 syslogの特徴<br>
+> 19:56 /etc/syslog.conf<br>
+> 21:03 facilityの種類<br>
+> 22:24 priorityの種類<br>
+> 23:34 actionの種類<br>
+> 25:36 loggerコマンド<br>
+> 31:25 rsyslogの特徴<br>
+> 32:13 /etc/rsyslog.conf<br>
+> 39:12 systemd-journaldの特徴<br>
+> 42:40 ログローテーション<br>
+- https://lpi.or.jp/news/event/page/20230310_01/
+- https://lpi.or.jp/news/event/page/20230310_01/20230311_linuc.pdf
 
 # 1.10 セキュリティ
 ## 1.10：セキュリティ」、「1.10.3 暗号化によるデータの保護」
