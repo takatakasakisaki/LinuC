@@ -19,7 +19,8 @@
 - https://www.youtube.com/watch?v=dCmeHhRdMqY
 - https://lpi.or.jp/news/event/page/20220311_01/20220312_linuc.pdf
 
-
+## LPIC 101&102試験 無料の模試問題 480問 徹底解説
+https://www.infra-linux.com/lpic1-101-102exam/
 
 # 1.01 Linuxのインストール　仮想マシン、コンテナの利用
 仮想マシン・コンテナの概念と利用
